@@ -1,5 +1,5 @@
 Insert into HEAD
-=================
+===
 
 Contributors: Zac Bruce, Fedmich
 
@@ -17,18 +17,19 @@ License URI: http://www.tldrlegal.com/license/mit-license
 
 
 Description
------------
+---
 Will insert specified text into the <head> of the page using the wp_head() function.
 
 Installation
-------------
+---
 Add a custom field (Screen Options -> Custom Fields) with the name 'headinsert'.
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+---
 You must have wp_head() as part of your <head>.
 
 Change log
-----------
+---
 <dl>
   <dt>0.2</dt>
   <dd>Added techs URL into array</dd>
@@ -37,5 +38,5 @@ Change log
 </dl>
 
 Todo
-----
+---
 Change from using a custom field into a normal text box field.
