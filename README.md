@@ -2,12 +2,19 @@ Insert into HEAD
 =================
 
 Contributors: Zac Bruce, Fedmich
+
 Tags: Javascript, CSS, Post, Page, JS, stylesheet, stylesheets, style, inline, head
+
 Requires at least: 2.0
+
 Tested up to: 3.5.1
+
 Stable tag: 0.2
+
 License: MIT
-License URI: (http://www.tldrlegal.com/license/mit-license)
+
+License URI: http://www.tldrlegal.com/license/mit-license
+
 
 Description
 -----------
@@ -27,6 +34,7 @@ Change log
   <dd>Added techs URL into array</dd>
   <dt>0.1</dt>
   <dd>Initial version. Test if it functions.</dd>
+</dl>
 
 Todo
 ----
