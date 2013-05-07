@@ -1,5 +1,6 @@
 Insert into HEAD
 =================
+
 Contributors: Zac Bruce, Fedmich
 Tags: Javascript, CSS, Post, Page, JS, stylesheet, stylesheets, style, inline, head
 Requires at least: 2.0
