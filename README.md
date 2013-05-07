@@ -1,19 +1,13 @@
 Insert into HEAD
 ===
 
-Contributors: Zac Bruce, Fedmich
-
-Tags: Javascript, CSS, Post, Page, JS, stylesheet, stylesheets, style, inline, head
-
-Requires at least: 2.0
-
-Tested up to: 3.5.1
-
-Stable tag: 0.2
-
-License: MIT
-
-License URI: http://www.tldrlegal.com/license/mit-license
+* Contributors: Zac Bruce, Fedmich
+* Tags: Javascript, CSS, Post, Page, JS, stylesheet, stylesheets, * style, inline, head
+* Requires at least: 2.0
+* Tested up to: 3.5.1
+* Stable tag: 0.2
+* License: MIT
+* License URI: http://www.tldrlegal.com/license/mit-license
 
 
 Description
