@@ -7,7 +7,7 @@ Requires at least: 2.0
 Tested up to: 3.5.1
 Stable tag: 0.2
 License: MIT
-License URI: http://www.tldrlegal.com/license/mit-license
+License URI: (http://www.tldrlegal.com/license/mit-license)
 
 Description
 -----------
@@ -20,14 +20,14 @@ Add a custom field (Screen Options -> Custom Fields) with the name 'headinsert'.
 == Frequently Asked Questions ==
 You must have wp_head() as part of your <head>.
 
-Changelog
----------
+Change log
+----------
 <dl>
   <dt>0.2</dt>
-  <dd>Added techs url into array</dd>
+  <dd>Added techs URL into array</dd>
   <dt>0.1</dt>
   <dd>Initial version. Test if it functions.</dd>
 
 Todo
 ----
-Change from using a custom field into a normal textbox field.
+Change from using a custom field into a normal text box field.
