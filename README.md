@@ -12,15 +12,15 @@ Insert into HEAD
 
 Description
 ---
-Will insert specified text into the <head> of the page using the wp_head() function.
+Will insert specified text into the `<head>` of the page using the `wp_head()` function.
 
 Installation
 ---
-Add a custom field (Screen Options -> Custom Fields) with the name 'headinsert'.
+Add a custom field (`Screen Options` -> `Custom Fields`) with the name `headinsert`.
 
 Frequently Asked Questions
 ---
-You must have wp_head() as part of your <head>.
+You must have wp_head() as part of your `<head>`.
 
 Change log
 ---
